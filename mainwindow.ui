@@ -61,7 +61,7 @@
   <widget class="QStatusBar" name="statusbar"/>
   <action name="actionNew_N">
    <property name="text">
-    <string>New(N)(&amp;N)</string>
+    <string>New(&amp;N)</string>
    </property>
   </action>
  </widget>
