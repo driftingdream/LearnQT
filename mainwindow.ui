@@ -63,6 +63,9 @@
    <property name="text">
     <string>New(&amp;N)</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
   </action>
  </widget>
  <resources/>
